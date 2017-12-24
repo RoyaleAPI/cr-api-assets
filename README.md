@@ -7,4 +7,4 @@ https://cr-api.github.io/cr-api-assets/
 
 For example, if you need to quickly retrieve a clan badge:
 
-https://cr-api.github.io/cr-api-assets/badge/A_Char_Rocket_02.png
+https://cr-api.github.io/cr-api-assets/badges/A_Char_Rocket_02.png
