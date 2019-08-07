@@ -1,5 +1,5 @@
 # cr-api-assets
-Assets used on cr-api.com
+Assets used on [royaleapi.com](https://royaleapi.com)
 
 Contents of these folders can be retrieved from:
 
